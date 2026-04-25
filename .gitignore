@@ -1,0 +1,14 @@
+asset_inventory_enriched.csv
+cyberIA/data/threat_intel/cve_corpus.csv
+cyberIA/data/public_dataset/cicids/Wednesday-workingHours.pcap_ISCX.csv
+cyberIA/data/threat_intel/cve_cisa_epss_enriched_dataset.csv
+cyberIA/data/public_dataset/cicids/Tuesday-WorkingHours.pcap_ISCX.csv
+cyberIA/data/public_dataset/cicids/Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv
+cyberIA/data/public_dataset/cicids/Thursday-WorkingHours-Afternoon-Infilteration.pcap_ISCX.csv
+cyberIA/data/public_dataset/cicids/Monday-WorkingHours.pcap_ISCX.csv
+cyberIA/data/public_dataset/cicids/Friday-WorkingHours-Morning.pcap_ISCX.csv
+cyberIA/data/public_dataset/cicids/Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv
+cyberIA/data/public_dataset/cicids/Friday-WorkingHours-Afternoon-DDos.pcap_ISCX.csv
+cyberIA/data/osint/urlhaus.abuse.ch.csv
+cyberIA/data/assets.csv
+cyberIA/data/harvest_asset_inventory.py
