@@ -1,0 +1,16 @@
+cyberIA/data/phase1_output.json
+data/collected.csv
+data/collected.json
+data/csv.txt
+data/phase1_output.json
+data/osint/urlhaus.abuse.ch.csv
+data/public_dataset/cicids/Friday-WorkingHours-Afternoon-DDos.pcap_ISCX.csv
+data/public_dataset/cicids/Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv
+data/public_dataset/cicids/Friday-WorkingHours-Morning.pcap_ISCX.csv
+data/public_dataset/cicids/Monday-WorkingHours.pcap_ISCX.csv
+data/public_dataset/cicids/Thursday-WorkingHours-Afternoon-Infilteration.pcap_ISCX.csv
+data/public_dataset/cicids/Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv
+data/public_dataset/cicids/Tuesday-WorkingHours.pcap_ISCX.csv
+data/public_dataset/cicids/Wednesday-workingHours.pcap_ISCX.csv
+data/threat_intel/cve_cisa_epss_enriched_dataset.csv
+data/threat_intel/cve_corpus.csv

@@ -1,0 +1,1517 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-25T21:57:11.047040",
+    "phase": "2 - IOC Extraction",
+    "total_iocs": 150,
+    "by_type": {
+      "cve": 150
+    },
+    "limits_applied": {
+      "network_flows": 300,
+      "cve": 150,
+      "urls": 150
+    }
+  },
+  "iocs": [
+    {
+      "ioc_value": "CVE-1999-0199",
+      "ioc_type": "cve",
+      "role": "vulnerability",
+      "threat_label": "UNKNOWN",
+      "cvss_score": "",
+      "source": "CVE_INTEL",
+      "context": "",
+      "source_file": "cve_cisa_epss_enriched_dataset.csv"
+    },
+    {
+      "ioc_value": "CVE-2002-20001",
+      "ioc_type": "cve",
+      "role": "vulnerability",
+      "threat_label": "UNKNOWN",
+      "cvss_score": "",
+      "source": "CVE_INTEL",
+      "context": "",
+      "source_file": "cve_cisa_epss_enriched_dataset.csv"
+    },
+    {
+      "ioc_value": "CVE-2002-2438",
+      "ioc_type": "cve",
+      "role": "vulnerability",
+      "threat_label": "UNKNOWN",
+      "cvss_score": "",
+      "source": "CVE_INTEL",
+      "context": "",
+      "source_file": "cve_cisa_epss_enriched_dataset.csv"
+    },
+    {
+      "ioc_value": "CVE-2002-2439",
+      "ioc_type": "cve",
+      "role": "vulnerability",
+      "threat_label": "UNKNOWN",
+      "cvss_score": "",
+      "source": "CVE_INTEL",
+      "context": "",
+      "source_file": "cve_cisa_epss_enriched_dataset.csv"
+    },
+    {
+      "ioc_value": "CVE-2002-2444",
+      "ioc_type": "cve",
+      "role": "vulnerability",
+      "threat_label": "UNKNOWN",
+      "cvss_score": "",
+      "source": "CVE_INTEL",
+      "context": "",
+      "source_file": "cve_cisa_epss_enriched_dataset.csv"
+    },
+    {
+      "ioc_value": "CVE-2003-1605",
+      "ioc_type": "cve",
+      "role": "vulnerability",
+      "threat_label": "UNKNOWN",
+      "cvss_score": "",
+      "source": "CVE_INTEL",
+      "context": "",
+      "source_file": "cve_cisa_epss_enriched_dataset.csv"
+    },
+    {
+      "ioc_value": "CVE-2003-5001",
+      "ioc_type": "cve",
+      "role": "vulnerability",
+      "threat_label": "UNKNOWN",
+      "cvss_score": "",
+      "source": "CVE_INTEL",
+      "context": "",
+      "source_file": "cve_cisa_epss_enriched_dataset.csv"
+    },
+    {
+      "ioc_value": "CVE-2003-5002",
+      "ioc_type": "cve",
+      "role": "vulnerability",
+      "threat_label": "UNKNOWN",
+      "cvss_score": "",
+      "source": "CVE_INTEL",
+      "context": "",
+      "source_file": "cve_cisa_epss_enriched_dataset.csv"
+    },
+    {
+      "ioc_value": "CVE-2003-5003",
+      "ioc_type": "cve",
+      "role": "vulnerability",
+      "threat_label": "UNKNOWN",
+      "cvss_score": "",
+      "source": "CVE_INTEL",
+      "context": "",
+      "source_file": "cve_cisa_epss_enriched_dataset.csv"
+    },
+    {
+      "ioc_value": "CVE-2004-2776",
+      "ioc_type": "cve",
+      "role": "vulnerability",
+      "threat_label": "UNKNOWN",
+      "cvss_score": "",
+      "source": "CVE_INTEL",
+      "context": "",
+      "source_file": "cve_cisa_epss_enriched_dataset.csv"
+    },
+    {
+      "ioc_value": "CVE-2004-2779",
+      "ioc_type": "cve",
+      "role": "vulnerability",
+      "threat_label": "UNKNOWN",
+      "cvss_score": "",
+      "source": "CVE_INTEL",
+      "context": "",
+      "source_file": "cve_cisa_epss_enriched_dataset.csv"
+    },
+    {
+      "ioc_value": "CVE-2005-10001",
+      "ioc_type": "cve",
+      "role": "vulnerability",
+      "threat_label": "UNKNOWN",
+      "cvss_score": "",
+      "source": "CVE_INTEL",
+      "context": "",
+      "source_file": "cve_cisa_epss_enriched_dataset.csv"
+    },
+    {
+      "ioc_value": "CVE-2005-10002",
+      "ioc_type": "cve",
+      "role": "vulnerability",
+      "threat_label": "UNKNOWN",
+      "cvss_score": "",
+      "source": "CVE_INTEL",
+      "context": "",
+      "source_file": "cve_cisa_epss_enriched_dataset.csv"
+    },
+    {
+      "ioc_value": "CVE-2005-10003",
+      "ioc_type": "cve",
+      "role": "vulnerability",
+      "threat_label": "UNKNOWN",
+      "cvss_score": "",
+      "source": "CVE_INTEL",
+      "context": "",
+      "source_file": "cve_cisa_epss_enriched_dataset.csv"
+    },
+    {
+      "ioc_value": "CVE-2005-2349",
+      "ioc_type": "cve",
+      "role": "vulnerability",
+      "threat_label": "UNKNOWN",
+      "cvss_score": "",
+      "source": "CVE_INTEL",
+      "context": "",
+      "source_file": "cve_cisa_epss_enriched_dataset.csv"
+    },
+    {
+      "ioc_value": "CVE-2005-2350",
+      "ioc_type": "cve",
+      "role": "vulnerability",
+      "threat_label": "UNKNOWN",
+      "cvss_score": "",
+      "source": "CVE_INTEL",
+      "context": "",
+      "source_file": "cve_cisa_epss_enriched_dataset.csv"
+    },
+    {
+      "ioc_value": "CVE-2005-2351",
+      "ioc_type": "cve",
+      "role": "vulnerability",
+      "threat_label": "UNKNOWN",
+      "cvss_score": "",
+      "source": "CVE_INTEL",
+      "context": "",
+      "source_file": "cve_cisa_epss_enriched_dataset.csv"
+    },
+    {
+      "ioc_value": "CVE-2005-2352",
+      "ioc_type": "cve",
+      "role": "vulnerability",
+      "threat_label": "UNKNOWN",
+      "cvss_score": "",
+      "source": "CVE_INTEL",
+      "context": "",
+      "source_file": "cve_cisa_epss_enriched_dataset.csv"
+    },
+    {
+      "ioc_value": "CVE-2005-2354",
+      "ioc_type": "cve",
+      "role": "vulnerability",
+      "threat_label": "UNKNOWN",
+      "cvss_score": "",
+      "source": "CVE_INTEL",
+      "context": "",
+      "source_file": "cve_cisa_epss_enriched_dataset.csv"
+    },
+    {
+      "ioc_value": "CVE-2005-3056",
+      "ioc_type": "cve",
+      "role": "vulnerability",
+      "threat_label": "UNKNOWN",
+      "cvss_score": "",
+      "source": "CVE_INTEL",
+      "context": "",
+      "source_file": "cve_cisa_epss_enriched_dataset.csv"
+    },
+    {
+      "ioc_value": "CVE-2005-3590",
+      "ioc_type": "cve",
+      "role": "vulnerability",
+      "threat_label": "UNKNOWN",
+      "cvss_score": "",
+      "source": "CVE_INTEL",
+      "context": "",
+      "source_file": "cve_cisa_epss_enriched_dataset.csv"
+    },
+    {
+      "ioc_value": "CVE-2005-4890",
+      "ioc_type": "cve",
+      "role": "vulnerability",
+      "threat_label": "UNKNOWN",
+      "cvss_score": "",
+      "source": "CVE_INTEL",
+      "context": "",
+      "source_file": "cve_cisa_epss_enriched_dataset.csv"
+    },
+    {
+      "ioc_value": "CVE-2005-4891",
+      "ioc_type": "cve",
+      "role": "vulnerability",
+      "threat_label": "UNKNOWN",
+      "cvss_score": "",
+      "source": "CVE_INTEL",
+      "context": "",
+      "source_file": "cve_cisa_epss_enriched_dataset.csv"
+    },
+    {
+      "ioc_value": "CVE-2006-0061",
+      "ioc_type": "cve",
+      "role": "vulnerability",
+      "threat_label": "UNKNOWN",
+      "cvss_score": "",
+      "source": "CVE_INTEL",
+      "context": "",
+      "source_file": "cve_cisa_epss_enriched_dataset.csv"
+    },
+    {
+      "ioc_value": "CVE-2006-0062",
+      "ioc_type": "cve",
+      "role": "vulnerability",
+      "threat_label": "UNKNOWN",
+      "cvss_score": "",
+      "source": "CVE_INTEL",
+      "context": "",
+      "source_file": "cve_cisa_epss_enriched_dataset.csv"
+    },
+    {
+      "ioc_value": "CVE-2006-10001",
+      "ioc_type": "cve",
+      "role": "vulnerability",
+      "threat_label": "UNKNOWN",
+      "cvss_score": "",
+      "source": "CVE_INTEL",
+      "context": "",
+      "source_file": "cve_cisa_epss_enriched_dataset.csv"
+    },
+    {
+      "ioc_value": "CVE-2006-20001",
+      "ioc_type": "cve",
+      "role": "vulnerability",
+      "threat_label": "UNKNOWN",
+      "cvss_score": "",
+      "source": "CVE_INTEL",
+      "context": "",
+      "source_file": "cve_cisa_epss_enriched_dataset.csv"
+    },
+    {
+      "ioc_value": "CVE-2006-3100",
+      "ioc_type": "cve",
+      "role": "vulnerability",
+      "threat_label": "UNKNOWN",
+      "cvss_score": "",
+      "source": "CVE_INTEL",
+      "context": "",
+      "source_file": "cve_cisa_epss_enriched_dataset.csv"
+    },
+    {
+      "ioc_value": "CVE-2006-4243",
+      "ioc_type": "cve",
+      "role": "vulnerability",
+      "threat_label": "UNKNOWN",
+      "cvss_score": "",
+      "source": "CVE_INTEL",
+      "context": "",
+      "source_file": "cve_cisa_epss_enriched_dataset.csv"
+    },
+    {
+      "ioc_value": "CVE-2006-4245",
+      "ioc_type": "cve",
+      "role": "vulnerability",
+      "threat_label": "UNKNOWN",
+      "cvss_score": "",
+      "source": "CVE_INTEL",
+      "context": "",
+      "source_file": "cve_cisa_epss_enriched_dataset.csv"
+    },
+    {
+      "ioc_value": "CVE-2006-7246",
+      "ioc_type": "cve",
+      "role": "vulnerability",
+      "threat_label": "UNKNOWN",
+      "cvss_score": "",
+      "source": "CVE_INTEL",
+      "context": "",
+      "source_file": "cve_cisa_epss_enriched_dataset.csv"
+    },
+    {
+      "ioc_value": "CVE-2006-7254",
+      "ioc_type": "cve",
+      "role": "vulnerability",
+      "threat_label": "UNKNOWN",
+      "cvss_score": "",
+      "source": "CVE_INTEL",
+      "context": "",
+      "source_file": "cve_cisa_epss_enriched_dataset.csv"
+    },
+    {
+      "ioc_value": "CVE-2007-0158",
+      "ioc_type": "cve",
+      "role": "vulnerability",
+      "threat_label": "UNKNOWN",
+      "cvss_score": "",
+      "source": "CVE_INTEL",
+      "context": "",
+      "source_file": "cve_cisa_epss_enriched_dataset.csv"
+    },
+    {
+      "ioc_value": "CVE-2007-0899",
+      "ioc_type": "cve",
+      "role": "vulnerability",
+      "threat_label": "UNKNOWN",
+      "cvss_score": "",
+      "source": "CVE_INTEL",
+      "context": "",
+      "source_file": "cve_cisa_epss_enriched_dataset.csv"
+    },
+    {
+      "ioc_value": "CVE-2007-10001",
+      "ioc_type": "cve",
+      "role": "vulnerability",
+      "threat_label": "UNKNOWN",
+      "cvss_score": "",
+      "source": "CVE_INTEL",
+      "context": "",
+      "source_file": "cve_cisa_epss_enriched_dataset.csv"
+    },
+    {
+      "ioc_value": "CVE-2007-10002",
+      "ioc_type": "cve",
+      "role": "vulnerability",
+      "threat_label": "UNKNOWN",
+      "cvss_score": "",
+      "source": "CVE_INTEL",
+      "context": "",
+      "source_file": "cve_cisa_epss_enriched_dataset.csv"
+    },
+    {
+      "ioc_value": "CVE-2007-10003",
+      "ioc_type": "cve",
+      "role": "vulnerability",
+      "threat_label": "UNKNOWN",
+      "cvss_score": "",
+      "source": "CVE_INTEL",
+      "context": "",
+      "source_file": "cve_cisa_epss_enriched_dataset.csv"
+    },
+    {
+      "ioc_value": "CVE-2007-20001",
+      "ioc_type": "cve",
+      "role": "vulnerability",
+      "threat_label": "UNKNOWN",
+      "cvss_score": "",
+      "source": "CVE_INTEL",
+      "context": "",
+      "source_file": "cve_cisa_epss_enriched_dataset.csv"
+    },
+    {
+      "ioc_value": "CVE-2007-3732",
+      "ioc_type": "cve",
+      "role": "vulnerability",
+      "threat_label": "UNKNOWN",
+      "cvss_score": "",
+      "source": "CVE_INTEL",
+      "context": "",
+      "source_file": "cve_cisa_epss_enriched_dataset.csv"
+    },
+    {
+      "ioc_value": "CVE-2007-3915",
+      "ioc_type": "cve",
+      "role": "vulnerability",
+      "threat_label": "UNKNOWN",
+      "cvss_score": "",
+      "source": "CVE_INTEL",
+      "context": "",
+      "source_file": "cve_cisa_epss_enriched_dataset.csv"
+    },
+    {
+      "ioc_value": "CVE-2007-4773",
+      "ioc_type": "cve",
+      "role": "vulnerability",
+      "threat_label": "UNKNOWN",
+      "cvss_score": "",
+      "source": "CVE_INTEL",
+      "context": "",
+      "source_file": "cve_cisa_epss_enriched_dataset.csv"
+    },
+    {
+      "ioc_value": "CVE-2007-4774",
+      "ioc_type": "cve",
+      "role": "vulnerability",
+      "threat_label": "UNKNOWN",
+      "cvss_score": "",
+      "source": "CVE_INTEL",
+      "context": "",
+      "source_file": "cve_cisa_epss_enriched_dataset.csv"
+    },
+    {
+      "ioc_value": "CVE-2007-5743",
+      "ioc_type": "cve",
+      "role": "vulnerability",
+      "threat_label": "UNKNOWN",
+      "cvss_score": "",
+      "source": "CVE_INTEL",
+      "context": "",
+      "source_file": "cve_cisa_epss_enriched_dataset.csv"
+    },
+    {
+      "ioc_value": "CVE-2007-5967",
+      "ioc_type": "cve",
+      "role": "vulnerability",
+      "threat_label": "UNKNOWN",
+      "cvss_score": "",
+      "source": "CVE_INTEL",
+      "context": "",
+      "source_file": "cve_cisa_epss_enriched_dataset.csv"
+    },
+    {
+      "ioc_value": "CVE-2007-6745",
+      "ioc_type": "cve",
+      "role": "vulnerability",
+      "threat_label": "UNKNOWN",
+      "cvss_score": "",
+      "source": "CVE_INTEL",
+      "context": "",
+      "source_file": "cve_cisa_epss_enriched_dataset.csv"
+    },
+    {
+      "ioc_value": "CVE-2007-6758",
+      "ioc_type": "cve",
+      "role": "vulnerability",
+      "threat_label": "UNKNOWN",
+      "cvss_score": "",
+      "source": "CVE_INTEL",
+      "context": "",
+      "source_file": "cve_cisa_epss_enriched_dataset.csv"
+    },
+    {
+      "ioc_value": "CVE-2007-6762",
+      "ioc_type": "cve",
+      "role": "vulnerability",
+      "threat_label": "UNKNOWN",
+      "cvss_score": "",
+      "source": "CVE_INTEL",
+      "context": "",
+      "source_file": "cve_cisa_epss_enriched_dataset.csv"
+    },
+    {
+      "ioc_value": "CVE-2007-6763",
+      "ioc_type": "cve",
+      "role": "vulnerability",
+      "threat_label": "UNKNOWN",
+      "cvss_score": "",
+      "source": "CVE_INTEL",
+      "context": "",
+      "source_file": "cve_cisa_epss_enriched_dataset.csv"
+    },
+    {
+      "ioc_value": "CVE-2008-10001",
+      "ioc_type": "cve",
+      "role": "vulnerability",
+      "threat_label": "UNKNOWN",
+      "cvss_score": "",
+      "source": "CVE_INTEL",
+      "context": "",
+      "source_file": "cve_cisa_epss_enriched_dataset.csv"
+    },
+    {
+      "ioc_value": "CVE-2008-10002",
+      "ioc_type": "cve",
+      "role": "vulnerability",
+      "threat_label": "UNKNOWN",
+      "cvss_score": "",
+      "source": "CVE_INTEL",
+      "context": "",
+      "source_file": "cve_cisa_epss_enriched_dataset.csv"
+    },
+    {
+      "ioc_value": "CVE-2008-10003",
+      "ioc_type": "cve",
+      "role": "vulnerability",
+      "threat_label": "UNKNOWN",
+      "cvss_score": "",
+      "source": "CVE_INTEL",
+      "context": "",
+      "source_file": "cve_cisa_epss_enriched_dataset.csv"
+    },
+    {
+      "ioc_value": "CVE-2008-10004",
+      "ioc_type": "cve",
+      "role": "vulnerability",
+      "threat_label": "UNKNOWN",
+      "cvss_score": "",
+      "source": "CVE_INTEL",
+      "context": "",
+      "source_file": "cve_cisa_epss_enriched_dataset.csv"
+    },
+    {
+      "ioc_value": "CVE-2008-2544",
+      "ioc_type": "cve",
+      "role": "vulnerability",
+      "threat_label": "UNKNOWN",
+      "cvss_score": "",
+      "source": "CVE_INTEL",
+      "context": "",
+      "source_file": "cve_cisa_epss_enriched_dataset.csv"
+    },
+    {
+      "ioc_value": "CVE-2008-3278",
+      "ioc_type": "cve",
+      "role": "vulnerability",
+      "threat_label": "UNKNOWN",
+      "cvss_score": "",
+      "source": "CVE_INTEL",
+      "context": "",
+      "source_file": "cve_cisa_epss_enriched_dataset.csv"
+    },
+    {
+      "ioc_value": "CVE-2008-3280",
+      "ioc_type": "cve",
+      "role": "vulnerability",
+      "threat_label": "UNKNOWN",
+      "cvss_score": "",
+      "source": "CVE_INTEL",
+      "context": "",
+      "source_file": "cve_cisa_epss_enriched_dataset.csv"
+    },
+    {
+      "ioc_value": "CVE-2008-5083",
+      "ioc_type": "cve",
+      "role": "vulnerability",
+      "threat_label": "UNKNOWN",
+      "cvss_score": "",
+      "source": "CVE_INTEL",
+      "context": "",
+      "source_file": "cve_cisa_epss_enriched_dataset.csv"
+    },
+    {
+      "ioc_value": "CVE-2008-7272",
+      "ioc_type": "cve",
+      "role": "vulnerability",
+      "threat_label": "UNKNOWN",
+      "cvss_score": "",
+      "source": "CVE_INTEL",
+      "context": "",
+      "source_file": "cve_cisa_epss_enriched_dataset.csv"
+    },
+    {
+      "ioc_value": "CVE-2008-7273",
+      "ioc_type": "cve",
+      "role": "vulnerability",
+      "threat_label": "UNKNOWN",
+      "cvss_score": "",
+      "source": "CVE_INTEL",
+      "context": "",
+      "source_file": "cve_cisa_epss_enriched_dataset.csv"
+    },
+    {
+      "ioc_value": "CVE-2008-7291",
+      "ioc_type": "cve",
+      "role": "vulnerability",
+      "threat_label": "UNKNOWN",
+      "cvss_score": "",
+      "source": "CVE_INTEL",
+      "context": "",
+      "source_file": "cve_cisa_epss_enriched_dataset.csv"
+    },
+    {
+      "ioc_value": "CVE-2008-7314",
+      "ioc_type": "cve",
+      "role": "vulnerability",
+      "threat_label": "UNKNOWN",
+      "cvss_score": "",
+      "source": "CVE_INTEL",
+      "context": "",
+      "source_file": "cve_cisa_epss_enriched_dataset.csv"
+    },
+    {
+      "ioc_value": "CVE-2008-7320",
+      "ioc_type": "cve",
+      "role": "vulnerability",
+      "threat_label": "UNKNOWN",
+      "cvss_score": "",
+      "source": "CVE_INTEL",
+      "context": "",
+      "source_file": "cve_cisa_epss_enriched_dataset.csv"
+    },
+    {
+      "ioc_value": "CVE-2008-7321",
+      "ioc_type": "cve",
+      "role": "vulnerability",
+      "threat_label": "UNKNOWN",
+      "cvss_score": "",
+      "source": "CVE_INTEL",
+      "context": "",
+      "source_file": "cve_cisa_epss_enriched_dataset.csv"
+    },
+    {
+      "ioc_value": "CVE-2009-0035",
+      "ioc_type": "cve",
+      "role": "vulnerability",
+      "threat_label": "UNKNOWN",
+      "cvss_score": "",
+      "source": "CVE_INTEL",
+      "context": "",
+      "source_file": "cve_cisa_epss_enriched_dataset.csv"
+    },
+    {
+      "ioc_value": "CVE-2009-0947",
+      "ioc_type": "cve",
+      "role": "vulnerability",
+      "threat_label": "UNKNOWN",
+      "cvss_score": "",
+      "source": "CVE_INTEL",
+      "context": "",
+      "source_file": "cve_cisa_epss_enriched_dataset.csv"
+    },
+    {
+      "ioc_value": "CVE-2009-0948",
+      "ioc_type": "cve",
+      "role": "vulnerability",
+      "threat_label": "UNKNOWN",
+      "cvss_score": "",
+      "source": "CVE_INTEL",
+      "context": "",
+      "source_file": "cve_cisa_epss_enriched_dataset.csv"
+    },
+    {
+      "ioc_value": "CVE-2009-10001",
+      "ioc_type": "cve",
+      "role": "vulnerability",
+      "threat_label": "UNKNOWN",
+      "cvss_score": "",
+      "source": "CVE_INTEL",
+      "context": "",
+      "source_file": "cve_cisa_epss_enriched_dataset.csv"
+    },
+    {
+      "ioc_value": "CVE-2009-10002",
+      "ioc_type": "cve",
+      "role": "vulnerability",
+      "threat_label": "UNKNOWN",
+      "cvss_score": "",
+      "source": "CVE_INTEL",
+      "context": "",
+      "source_file": "cve_cisa_epss_enriched_dataset.csv"
+    },
+    {
+      "ioc_value": "CVE-2009-10003",
+      "ioc_type": "cve",
+      "role": "vulnerability",
+      "threat_label": "UNKNOWN",
+      "cvss_score": "",
+      "source": "CVE_INTEL",
+      "context": "",
+      "source_file": "cve_cisa_epss_enriched_dataset.csv"
+    },
+    {
+      "ioc_value": "CVE-2009-10004",
+      "ioc_type": "cve",
+      "role": "vulnerability",
+      "threat_label": "UNKNOWN",
+      "cvss_score": "",
+      "source": "CVE_INTEL",
+      "context": "",
+      "source_file": "cve_cisa_epss_enriched_dataset.csv"
+    },
+    {
+      "ioc_value": "CVE-2009-1120",
+      "ioc_type": "cve",
+      "role": "vulnerability",
+      "threat_label": "UNKNOWN",
+      "cvss_score": "",
+      "source": "CVE_INTEL",
+      "context": "",
+      "source_file": "cve_cisa_epss_enriched_dataset.csv"
+    },
+    {
+      "ioc_value": "CVE-2009-1142",
+      "ioc_type": "cve",
+      "role": "vulnerability",
+      "threat_label": "UNKNOWN",
+      "cvss_score": "",
+      "source": "CVE_INTEL",
+      "context": "",
+      "source_file": "cve_cisa_epss_enriched_dataset.csv"
+    },
+    {
+      "ioc_value": "CVE-2009-1143",
+      "ioc_type": "cve",
+      "role": "vulnerability",
+      "threat_label": "UNKNOWN",
+      "cvss_score": "",
+      "source": "CVE_INTEL",
+      "context": "",
+      "source_file": "cve_cisa_epss_enriched_dataset.csv"
+    },
+    {
+      "ioc_value": "CVE-2009-20001",
+      "ioc_type": "cve",
+      "role": "vulnerability",
+      "threat_label": "UNKNOWN",
+      "cvss_score": "",
+      "source": "CVE_INTEL",
+      "context": "",
+      "source_file": "cve_cisa_epss_enriched_dataset.csv"
+    },
+    {
+      "ioc_value": "CVE-2009-2802",
+      "ioc_type": "cve",
+      "role": "vulnerability",
+      "threat_label": "UNKNOWN",
+      "cvss_score": "",
+      "source": "CVE_INTEL",
+      "context": "",
+      "source_file": "cve_cisa_epss_enriched_dataset.csv"
+    },
+    {
+      "ioc_value": "CVE-2009-3552",
+      "ioc_type": "cve",
+      "role": "vulnerability",
+      "threat_label": "UNKNOWN",
+      "cvss_score": "",
+      "source": "CVE_INTEL",
+      "context": "",
+      "source_file": "cve_cisa_epss_enriched_dataset.csv"
+    },
+    {
+      "ioc_value": "CVE-2009-3614",
+      "ioc_type": "cve",
+      "role": "vulnerability",
+      "threat_label": "UNKNOWN",
+      "cvss_score": "",
+      "source": "CVE_INTEL",
+      "context": "",
+      "source_file": "cve_cisa_epss_enriched_dataset.csv"
+    },
+    {
+      "ioc_value": "CVE-2009-3721",
+      "ioc_type": "cve",
+      "role": "vulnerability",
+      "threat_label": "UNKNOWN",
+      "cvss_score": "",
+      "source": "CVE_INTEL",
+      "context": "",
+      "source_file": "cve_cisa_epss_enriched_dataset.csv"
+    },
+    {
+      "ioc_value": "CVE-2009-3723",
+      "ioc_type": "cve",
+      "role": "vulnerability",
+      "threat_label": "UNKNOWN",
+      "cvss_score": "",
+      "source": "CVE_INTEL",
+      "context": "",
+      "source_file": "cve_cisa_epss_enriched_dataset.csv"
+    },
+    {
+      "ioc_value": "CVE-2009-3724",
+      "ioc_type": "cve",
+      "role": "vulnerability",
+      "threat_label": "UNKNOWN",
+      "cvss_score": "",
+      "source": "CVE_INTEL",
+      "context": "",
+      "source_file": "cve_cisa_epss_enriched_dataset.csv"
+    },
+    {
+      "ioc_value": "CVE-2009-3887",
+      "ioc_type": "cve",
+      "role": "vulnerability",
+      "threat_label": "UNKNOWN",
+      "cvss_score": "",
+      "source": "CVE_INTEL",
+      "context": "",
+      "source_file": "cve_cisa_epss_enriched_dataset.csv"
+    },
+    {
+      "ioc_value": "CVE-2009-4011",
+      "ioc_type": "cve",
+      "role": "vulnerability",
+      "threat_label": "UNKNOWN",
+      "cvss_score": "",
+      "source": "CVE_INTEL",
+      "context": "",
+      "source_file": "cve_cisa_epss_enriched_dataset.csv"
+    },
+    {
+      "ioc_value": "CVE-2009-4067",
+      "ioc_type": "cve",
+      "role": "vulnerability",
+      "threat_label": "UNKNOWN",
+      "cvss_score": "",
+      "source": "CVE_INTEL",
+      "context": "",
+      "source_file": "cve_cisa_epss_enriched_dataset.csv"
+    },
+    {
+      "ioc_value": "CVE-2009-4123",
+      "ioc_type": "cve",
+      "role": "vulnerability",
+      "threat_label": "UNKNOWN",
+      "cvss_score": "",
+      "source": "CVE_INTEL",
+      "context": "",
+      "source_file": "cve_cisa_epss_enriched_dataset.csv"
+    },
+    {
+      "ioc_value": "CVE-2009-4267",
+      "ioc_type": "cve",
+      "role": "vulnerability",
+      "threat_label": "UNKNOWN",
+      "cvss_score": "",
+      "source": "CVE_INTEL",
+      "context": "",
+      "source_file": "cve_cisa_epss_enriched_dataset.csv"
+    },
+    {
+      "ioc_value": "CVE-2009-4899",
+      "ioc_type": "cve",
+      "role": "vulnerability",
+      "threat_label": "UNKNOWN",
+      "cvss_score": "",
+      "source": "CVE_INTEL",
+      "context": "",
+      "source_file": "cve_cisa_epss_enriched_dataset.csv"
+    },
+    {
+      "ioc_value": "CVE-2009-4900",
+      "ioc_type": "cve",
+      "role": "vulnerability",
+      "threat_label": "UNKNOWN",
+      "cvss_score": "",
+      "source": "CVE_INTEL",
+      "context": "",
+      "source_file": "cve_cisa_epss_enriched_dataset.csv"
+    },
+    {
+      "ioc_value": "CVE-2009-5004",
+      "ioc_type": "cve",
+      "role": "vulnerability",
+      "threat_label": "UNKNOWN",
+      "cvss_score": "",
+      "source": "CVE_INTEL",
+      "context": "",
+      "source_file": "cve_cisa_epss_enriched_dataset.csv"
+    },
+    {
+      "ioc_value": "CVE-2009-5025",
+      "ioc_type": "cve",
+      "role": "vulnerability",
+      "threat_label": "UNKNOWN",
+      "cvss_score": "",
+      "source": "CVE_INTEL",
+      "context": "",
+      "source_file": "cve_cisa_epss_enriched_dataset.csv"
+    },
+    {
+      "ioc_value": "CVE-2009-5041",
+      "ioc_type": "cve",
+      "role": "vulnerability",
+      "threat_label": "UNKNOWN",
+      "cvss_score": "",
+      "source": "CVE_INTEL",
+      "context": "",
+      "source_file": "cve_cisa_epss_enriched_dataset.csv"
+    },
+    {
+      "ioc_value": "CVE-2009-5042",
+      "ioc_type": "cve",
+      "role": "vulnerability",
+      "threat_label": "UNKNOWN",
+      "cvss_score": "",
+      "source": "CVE_INTEL",
+      "context": "",
+      "source_file": "cve_cisa_epss_enriched_dataset.csv"
+    },
+    {
+      "ioc_value": "CVE-2009-5043",
+      "ioc_type": "cve",
+      "role": "vulnerability",
+      "threat_label": "UNKNOWN",
+      "cvss_score": "",
+      "source": "CVE_INTEL",
+      "context": "",
+      "source_file": "cve_cisa_epss_enriched_dataset.csv"
+    },
+    {
+      "ioc_value": "CVE-2009-5045",
+      "ioc_type": "cve",
+      "role": "vulnerability",
+      "threat_label": "UNKNOWN",
+      "cvss_score": "",
+      "source": "CVE_INTEL",
+      "context": "",
+      "source_file": "cve_cisa_epss_enriched_dataset.csv"
+    },
+    {
+      "ioc_value": "CVE-2009-5046",
+      "ioc_type": "cve",
+      "role": "vulnerability",
+      "threat_label": "UNKNOWN",
+      "cvss_score": "",
+      "source": "CVE_INTEL",
+      "context": "",
+      "source_file": "cve_cisa_epss_enriched_dataset.csv"
+    },
+    {
+      "ioc_value": "CVE-2009-5048",
+      "ioc_type": "cve",
+      "role": "vulnerability",
+      "threat_label": "UNKNOWN",
+      "cvss_score": "",
+      "source": "CVE_INTEL",
+      "context": "",
+      "source_file": "cve_cisa_epss_enriched_dataset.csv"
+    },
+    {
+      "ioc_value": "CVE-2009-5049",
+      "ioc_type": "cve",
+      "role": "vulnerability",
+      "threat_label": "UNKNOWN",
+      "cvss_score": "",
+      "source": "CVE_INTEL",
+      "context": "",
+      "source_file": "cve_cisa_epss_enriched_dataset.csv"
+    },
+    {
+      "ioc_value": "CVE-2009-5050",
+      "ioc_type": "cve",
+      "role": "vulnerability",
+      "threat_label": "UNKNOWN",
+      "cvss_score": "",
+      "source": "CVE_INTEL",
+      "context": "",
+      "source_file": "cve_cisa_epss_enriched_dataset.csv"
+    },
+    {
+      "ioc_value": "CVE-2009-5068",
+      "ioc_type": "cve",
+      "role": "vulnerability",
+      "threat_label": "UNKNOWN",
+      "cvss_score": "",
+      "source": "CVE_INTEL",
+      "context": "",
+      "source_file": "cve_cisa_epss_enriched_dataset.csv"
+    },
+    {
+      "ioc_value": "CVE-2009-5139",
+      "ioc_type": "cve",
+      "role": "vulnerability",
+      "threat_label": "UNKNOWN",
+      "cvss_score": "",
+      "source": "CVE_INTEL",
+      "context": "",
+      "source_file": "cve_cisa_epss_enriched_dataset.csv"
+    },
+    {
+      "ioc_value": "CVE-2009-5140",
+      "ioc_type": "cve",
+      "role": "vulnerability",
+      "threat_label": "UNKNOWN",
+      "cvss_score": "",
+      "source": "CVE_INTEL",
+      "context": "",
+      "source_file": "cve_cisa_epss_enriched_dataset.csv"
+    },
+    {
+      "ioc_value": "CVE-2009-5144",
+      "ioc_type": "cve",
+      "role": "vulnerability",
+      "threat_label": "UNKNOWN",
+      "cvss_score": "",
+      "source": "CVE_INTEL",
+      "context": "",
+      "source_file": "cve_cisa_epss_enriched_dataset.csv"
+    },
+    {
+      "ioc_value": "CVE-2009-5150",
+      "ioc_type": "cve",
+      "role": "vulnerability",
+      "threat_label": "UNKNOWN",
+      "cvss_score": "",
+      "source": "CVE_INTEL",
+      "context": "",
+      "source_file": "cve_cisa_epss_enriched_dataset.csv"
+    },
+    {
+      "ioc_value": "CVE-2009-5151",
+      "ioc_type": "cve",
+      "role": "vulnerability",
+      "threat_label": "UNKNOWN",
+      "cvss_score": "",
+      "source": "CVE_INTEL",
+      "context": "",
+      "source_file": "cve_cisa_epss_enriched_dataset.csv"
+    },
+    {
+      "ioc_value": "CVE-2009-5152",
+      "ioc_type": "cve",
+      "role": "vulnerability",
+      "threat_label": "UNKNOWN",
+      "cvss_score": "",
+      "source": "CVE_INTEL",
+      "context": "",
+      "source_file": "cve_cisa_epss_enriched_dataset.csv"
+    },
+    {
+      "ioc_value": "CVE-2009-5153",
+      "ioc_type": "cve",
+      "role": "vulnerability",
+      "threat_label": "UNKNOWN",
+      "cvss_score": "",
+      "source": "CVE_INTEL",
+      "context": "",
+      "source_file": "cve_cisa_epss_enriched_dataset.csv"
+    },
+    {
+      "ioc_value": "CVE-2009-5154",
+      "ioc_type": "cve",
+      "role": "vulnerability",
+      "threat_label": "UNKNOWN",
+      "cvss_score": "",
+      "source": "CVE_INTEL",
+      "context": "",
+      "source_file": "cve_cisa_epss_enriched_dataset.csv"
+    },
+    {
+      "ioc_value": "CVE-2009-5155",
+      "ioc_type": "cve",
+      "role": "vulnerability",
+      "threat_label": "UNKNOWN",
+      "cvss_score": "",
+      "source": "CVE_INTEL",
+      "context": "",
+      "source_file": "cve_cisa_epss_enriched_dataset.csv"
+    },
+    {
+      "ioc_value": "CVE-2009-5156",
+      "ioc_type": "cve",
+      "role": "vulnerability",
+      "threat_label": "UNKNOWN",
+      "cvss_score": "",
+      "source": "CVE_INTEL",
+      "context": "",
+      "source_file": "cve_cisa_epss_enriched_dataset.csv"
+    },
+    {
+      "ioc_value": "CVE-2009-5157",
+      "ioc_type": "cve",
+      "role": "vulnerability",
+      "threat_label": "UNKNOWN",
+      "cvss_score": "",
+      "source": "CVE_INTEL",
+      "context": "",
+      "source_file": "cve_cisa_epss_enriched_dataset.csv"
+    },
+    {
+      "ioc_value": "CVE-2009-5158",
+      "ioc_type": "cve",
+      "role": "vulnerability",
+      "threat_label": "UNKNOWN",
+      "cvss_score": "",
+      "source": "CVE_INTEL",
+      "context": "",
+      "source_file": "cve_cisa_epss_enriched_dataset.csv"
+    },
+    {
+      "ioc_value": "CVE-2009-5159",
+      "ioc_type": "cve",
+      "role": "vulnerability",
+      "threat_label": "UNKNOWN",
+      "cvss_score": "",
+      "source": "CVE_INTEL",
+      "context": "",
+      "source_file": "cve_cisa_epss_enriched_dataset.csv"
+    },
+    {
+      "ioc_value": "CVE-2010-0109",
+      "ioc_type": "cve",
+      "role": "vulnerability",
+      "threat_label": "UNKNOWN",
+      "cvss_score": "",
+      "source": "CVE_INTEL",
+      "context": "",
+      "source_file": "cve_cisa_epss_enriched_dataset.csv"
+    },
+    {
+      "ioc_value": "CVE-2010-0206",
+      "ioc_type": "cve",
+      "role": "vulnerability",
+      "threat_label": "UNKNOWN",
+      "cvss_score": "",
+      "source": "CVE_INTEL",
+      "context": "",
+      "source_file": "cve_cisa_epss_enriched_dataset.csv"
+    },
+    {
+      "ioc_value": "CVE-2010-0207",
+      "ioc_type": "cve",
+      "role": "vulnerability",
+      "threat_label": "UNKNOWN",
+      "cvss_score": "",
+      "source": "CVE_INTEL",
+      "context": "",
+      "source_file": "cve_cisa_epss_enriched_dataset.csv"
+    },
+    {
+      "ioc_value": "CVE-2010-0398",
+      "ioc_type": "cve",
+      "role": "vulnerability",
+      "threat_label": "UNKNOWN",
+      "cvss_score": "",
+      "source": "CVE_INTEL",
+      "context": "",
+      "source_file": "cve_cisa_epss_enriched_dataset.csv"
+    },
+    {
+      "ioc_value": "CVE-2010-0737",
+      "ioc_type": "cve",
+      "role": "vulnerability",
+      "threat_label": "UNKNOWN",
+      "cvss_score": "",
+      "source": "CVE_INTEL",
+      "context": "",
+      "source_file": "cve_cisa_epss_enriched_dataset.csv"
+    },
+    {
+      "ioc_value": "CVE-2010-0747",
+      "ioc_type": "cve",
+      "role": "vulnerability",
+      "threat_label": "UNKNOWN",
+      "cvss_score": "",
+      "source": "CVE_INTEL",
+      "context": "",
+      "source_file": "cve_cisa_epss_enriched_dataset.csv"
+    },
+    {
+      "ioc_value": "CVE-2010-0748",
+      "ioc_type": "cve",
+      "role": "vulnerability",
+      "threat_label": "UNKNOWN",
+      "cvss_score": "",
+      "source": "CVE_INTEL",
+      "context": "",
+      "source_file": "cve_cisa_epss_enriched_dataset.csv"
+    },
+    {
+      "ioc_value": "CVE-2010-0749",
+      "ioc_type": "cve",
+      "role": "vulnerability",
+      "threat_label": "UNKNOWN",
+      "cvss_score": "",
+      "source": "CVE_INTEL",
+      "context": "",
+      "source_file": "cve_cisa_epss_enriched_dataset.csv"
+    },
+    {
+      "ioc_value": "CVE-2010-10001",
+      "ioc_type": "cve",
+      "role": "vulnerability",
+      "threat_label": "UNKNOWN",
+      "cvss_score": "",
+      "source": "CVE_INTEL",
+      "context": "",
+      "source_file": "cve_cisa_epss_enriched_dataset.csv"
+    },
+    {
+      "ioc_value": "CVE-2010-10002",
+      "ioc_type": "cve",
+      "role": "vulnerability",
+      "threat_label": "UNKNOWN",
+      "cvss_score": "",
+      "source": "CVE_INTEL",
+      "context": "",
+      "source_file": "cve_cisa_epss_enriched_dataset.csv"
+    },
+    {
+      "ioc_value": "CVE-2010-10003",
+      "ioc_type": "cve",
+      "role": "vulnerability",
+      "threat_label": "UNKNOWN",
+      "cvss_score": "",
+      "source": "CVE_INTEL",
+      "context": "",
+      "source_file": "cve_cisa_epss_enriched_dataset.csv"
+    },
+    {
+      "ioc_value": "CVE-2010-10004",
+      "ioc_type": "cve",
+      "role": "vulnerability",
+      "threat_label": "UNKNOWN",
+      "cvss_score": "",
+      "source": "CVE_INTEL",
+      "context": "",
+      "source_file": "cve_cisa_epss_enriched_dataset.csv"
+    },
+    {
+      "ioc_value": "CVE-2010-10006",
+      "ioc_type": "cve",
+      "role": "vulnerability",
+      "threat_label": "UNKNOWN",
+      "cvss_score": "",
+      "source": "CVE_INTEL",
+      "context": "",
+      "source_file": "cve_cisa_epss_enriched_dataset.csv"
+    },
+    {
+      "ioc_value": "CVE-2010-10007",
+      "ioc_type": "cve",
+      "role": "vulnerability",
+      "threat_label": "UNKNOWN",
+      "cvss_score": "",
+      "source": "CVE_INTEL",
+      "context": "",
+      "source_file": "cve_cisa_epss_enriched_dataset.csv"
+    },
+    {
+      "ioc_value": "CVE-2010-10008",
+      "ioc_type": "cve",
+      "role": "vulnerability",
+      "threat_label": "UNKNOWN",
+      "cvss_score": "",
+      "source": "CVE_INTEL",
+      "context": "",
+      "source_file": "cve_cisa_epss_enriched_dataset.csv"
+    },
+    {
+      "ioc_value": "CVE-2010-10009",
+      "ioc_type": "cve",
+      "role": "vulnerability",
+      "threat_label": "UNKNOWN",
+      "cvss_score": "",
+      "source": "CVE_INTEL",
+      "context": "",
+      "source_file": "cve_cisa_epss_enriched_dataset.csv"
+    },
+    {
+      "ioc_value": "CVE-2010-10010",
+      "ioc_type": "cve",
+      "role": "vulnerability",
+      "threat_label": "UNKNOWN",
+      "cvss_score": "",
+      "source": "CVE_INTEL",
+      "context": "",
+      "source_file": "cve_cisa_epss_enriched_dataset.csv"
+    },
+    {
+      "ioc_value": "CVE-2010-10011",
+      "ioc_type": "cve",
+      "role": "vulnerability",
+      "threat_label": "UNKNOWN",
+      "cvss_score": "",
+      "source": "CVE_INTEL",
+      "context": "",
+      "source_file": "cve_cisa_epss_enriched_dataset.csv"
+    },
+    {
+      "ioc_value": "CVE-2010-1432",
+      "ioc_type": "cve",
+      "role": "vulnerability",
+      "threat_label": "UNKNOWN",
+      "cvss_score": "",
+      "source": "CVE_INTEL",
+      "context": "",
+      "source_file": "cve_cisa_epss_enriched_dataset.csv"
+    },
+    {
+      "ioc_value": "CVE-2010-1433",
+      "ioc_type": "cve",
+      "role": "vulnerability",
+      "threat_label": "UNKNOWN",
+      "cvss_score": "",
+      "source": "CVE_INTEL",
+      "context": "",
+      "source_file": "cve_cisa_epss_enriched_dataset.csv"
+    },
+    {
+      "ioc_value": "CVE-2010-1434",
+      "ioc_type": "cve",
+      "role": "vulnerability",
+      "threat_label": "UNKNOWN",
+      "cvss_score": "",
+      "source": "CVE_INTEL",
+      "context": "",
+      "source_file": "cve_cisa_epss_enriched_dataset.csv"
+    },
+    {
+      "ioc_value": "CVE-2010-1435",
+      "ioc_type": "cve",
+      "role": "vulnerability",
+      "threat_label": "UNKNOWN",
+      "cvss_score": "",
+      "source": "CVE_INTEL",
+      "context": "",
+      "source_file": "cve_cisa_epss_enriched_dataset.csv"
+    },
+    {
+      "ioc_value": "CVE-2010-1673",
+      "ioc_type": "cve",
+      "role": "vulnerability",
+      "threat_label": "UNKNOWN",
+      "cvss_score": "",
+      "source": "CVE_INTEL",
+      "context": "",
+      "source_file": "cve_cisa_epss_enriched_dataset.csv"
+    },
+    {
+      "ioc_value": "CVE-2010-1678",
+      "ioc_type": "cve",
+      "role": "vulnerability",
+      "threat_label": "UNKNOWN",
+      "cvss_score": "",
+      "source": "CVE_INTEL",
+      "context": "",
+      "source_file": "cve_cisa_epss_enriched_dataset.csv"
+    },
+    {
+      "ioc_value": "CVE-2010-2061",
+      "ioc_type": "cve",
+      "role": "vulnerability",
+      "threat_label": "UNKNOWN",
+      "cvss_score": "",
+      "source": "CVE_INTEL",
+      "context": "",
+      "source_file": "cve_cisa_epss_enriched_dataset.csv"
+    },
+    {
+      "ioc_value": "CVE-2010-2064",
+      "ioc_type": "cve",
+      "role": "vulnerability",
+      "threat_label": "UNKNOWN",
+      "cvss_score": "",
+      "source": "CVE_INTEL",
+      "context": "",
+      "source_file": "cve_cisa_epss_enriched_dataset.csv"
+    },
+    {
+      "ioc_value": "CVE-2010-2222",
+      "ioc_type": "cve",
+      "role": "vulnerability",
+      "threat_label": "UNKNOWN",
+      "cvss_score": "",
+      "source": "CVE_INTEL",
+      "context": "",
+      "source_file": "cve_cisa_epss_enriched_dataset.csv"
+    },
+    {
+      "ioc_value": "CVE-2010-2243",
+      "ioc_type": "cve",
+      "role": "vulnerability",
+      "threat_label": "UNKNOWN",
+      "cvss_score": "",
+      "source": "CVE_INTEL",
+      "context": "",
+      "source_file": "cve_cisa_epss_enriched_dataset.csv"
+    },
+    {
+      "ioc_value": "CVE-2010-2247",
+      "ioc_type": "cve",
+      "role": "vulnerability",
+      "threat_label": "UNKNOWN",
+      "cvss_score": "",
+      "source": "CVE_INTEL",
+      "context": "",
+      "source_file": "cve_cisa_epss_enriched_dataset.csv"
+    },
+    {
+      "ioc_value": "CVE-2010-2250",
+      "ioc_type": "cve",
+      "role": "vulnerability",
+      "threat_label": "UNKNOWN",
+      "cvss_score": "",
+      "source": "CVE_INTEL",
+      "context": "",
+      "source_file": "cve_cisa_epss_enriched_dataset.csv"
+    },
+    {
+      "ioc_value": "CVE-2010-2446",
+      "ioc_type": "cve",
+      "role": "vulnerability",
+      "threat_label": "UNKNOWN",
+      "cvss_score": "",
+      "source": "CVE_INTEL",
+      "context": "",
+      "source_file": "cve_cisa_epss_enriched_dataset.csv"
+    },
+    {
+      "ioc_value": "CVE-2010-2447",
+      "ioc_type": "cve",
+      "role": "vulnerability",
+      "threat_label": "UNKNOWN",
+      "cvss_score": "",
+      "source": "CVE_INTEL",
+      "context": "",
+      "source_file": "cve_cisa_epss_enriched_dataset.csv"
+    },
+    {
+      "ioc_value": "CVE-2010-2449",
+      "ioc_type": "cve",
+      "role": "vulnerability",
+      "threat_label": "UNKNOWN",
+      "cvss_score": "",
+      "source": "CVE_INTEL",
+      "context": "",
+      "source_file": "cve_cisa_epss_enriched_dataset.csv"
+    },
+    {
+      "ioc_value": "CVE-2010-2450",
+      "ioc_type": "cve",
+      "role": "vulnerability",
+      "threat_label": "UNKNOWN",
+      "cvss_score": "",
+      "source": "CVE_INTEL",
+      "context": "",
+      "source_file": "cve_cisa_epss_enriched_dataset.csv"
+    },
+    {
+      "ioc_value": "CVE-2010-2471",
+      "ioc_type": "cve",
+      "role": "vulnerability",
+      "threat_label": "UNKNOWN",
+      "cvss_score": "",
+      "source": "CVE_INTEL",
+      "context": "",
+      "source_file": "cve_cisa_epss_enriched_dataset.csv"
+    },
+    {
+      "ioc_value": "CVE-2010-2472",
+      "ioc_type": "cve",
+      "role": "vulnerability",
+      "threat_label": "UNKNOWN",
+      "cvss_score": "",
+      "source": "CVE_INTEL",
+      "context": "",
+      "source_file": "cve_cisa_epss_enriched_dataset.csv"
+    },
+    {
+      "ioc_value": "CVE-2010-2473",
+      "ioc_type": "cve",
+      "role": "vulnerability",
+      "threat_label": "UNKNOWN",
+      "cvss_score": "",
+      "source": "CVE_INTEL",
+      "context": "",
+      "source_file": "cve_cisa_epss_enriched_dataset.csv"
+    },
+    {
+      "ioc_value": "CVE-2010-2476",
+      "ioc_type": "cve",
+      "role": "vulnerability",
+      "threat_label": "UNKNOWN",
+      "cvss_score": "",
+      "source": "CVE_INTEL",
+      "context": "",
+      "source_file": "cve_cisa_epss_enriched_dataset.csv"
+    },
+    {
+      "ioc_value": "CVE-2010-2488",
+      "ioc_type": "cve",
+      "role": "vulnerability",
+      "threat_label": "UNKNOWN",
+      "cvss_score": "",
+      "source": "CVE_INTEL",
+      "context": "",
+      "source_file": "cve_cisa_epss_enriched_dataset.csv"
+    },
+    {
+      "ioc_value": "CVE-2010-2490",
+      "ioc_type": "cve",
+      "role": "vulnerability",
+      "threat_label": "UNKNOWN",
+      "cvss_score": "",
+      "source": "CVE_INTEL",
+      "context": "",
+      "source_file": "cve_cisa_epss_enriched_dataset.csv"
+    }
+  ]
+}
